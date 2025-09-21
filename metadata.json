@@ -1,0 +1,5 @@
+{
+  "name": "AI Test Case Generator",
+  "description": "An AI-powered application to generate comprehensive test cases from software requirements. Enter your project details and requirements, and let Gemini craft detailed test scenarios, steps, and expected outcomes to streamline your quality assurance process.",
+  "requestFramePermissions": []
+}
